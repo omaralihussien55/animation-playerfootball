@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    /* background-color: rgb(245, 80, 250); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+body{
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(110, 10, 209);
+}
